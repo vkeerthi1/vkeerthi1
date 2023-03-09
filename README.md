@@ -19,14 +19,10 @@ Here are some ideas to get you started:
 I'm Keerthi. I work as a DevOps Lead engineer during the day. I love exploring new technologies and spreading my knowledge with peers.
 
 ---
-
 ### ⚡️ A quick introduction
-
 - 🔭 I’m currently working in DevOps Projects.
 - 🌱 I’m currently learning Azure Cloud (Blows my mind everyday). 
-
 ---
-
 ### 🤝🏻 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keerthi-v-240879168/)
