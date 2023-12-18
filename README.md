@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
-I'm Keerthi. I work as a DevOps Lead engineer during the day. I love exploring new technologies and spreading my knowledge with peers.
+I'm Keerthi. I work as a Lead Azure and DevOps engineer during the day. I love exploring new technologies and spreading my knowledge with peers.
 
 ---
 ### ⚡️ A quick introduction
